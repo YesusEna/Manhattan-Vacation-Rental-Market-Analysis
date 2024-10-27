@@ -5,7 +5,7 @@ To help client prioritize where to focus market research, project focus is on an
 <br />
 
 
-<h2>Languages and Utilities Used</h2>
+<h2>Languages and Utilities/Tools Used</h2>
 
 - <b>Pivot Tables</b> 
 - <b>Microsoft Excel, Google Spreadsheets</b>
